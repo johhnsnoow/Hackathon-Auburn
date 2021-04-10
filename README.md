@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Initial Steps
+
+1- First clone this repository in your local machine.
+2- Run npm install in the root folder which is cloned.
+3- Now run npm start or yarn start.
+4- Now open "http://localhost:3000" in your browser after the previous command is executed .
+
 ## Available Scripts
 
 In the project directory, you can run:
