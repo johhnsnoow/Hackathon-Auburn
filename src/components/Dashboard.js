@@ -6,18 +6,8 @@ const Dashboard = (props) => {
         props.onchange('');
     }
     return (
-        <div className="login-wrapper">
-      <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={profileObj.imageUrl} />
-        <Card.Body>
-          <Card.Title>{profileObj.name}</Card.Title>
-        </Card.Body>
-      </Card>
-      <Button variant="danger" onClick={handleLogout}>
-          Logout
-          </Button>
-      </div>
-    );
+      <a href="hero.html">Start the prediction</a>
+  );
 }
 
 export default Dashboard

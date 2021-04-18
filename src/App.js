@@ -7,7 +7,7 @@ function App() {
     <>
     <Navbar bg="dark" variant="dark">
     <Navbar.Brand>{' '}
-      React Bootstrap
+      Superhero Predictor
     </Navbar.Brand>
   </Navbar>
     <Login />
